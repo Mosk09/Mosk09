@@ -75,9 +75,14 @@ Web: https://porfoliolmosconi.vercel.app/
 
  <h2>Proyecto The FullStack Store</h2>
  <p>Diseñar y desarrollar un e-commerce de electrónica que incluye: búsquedas, filtrados, ordenamientos, creación, auth de terceros, pasarela de pagos, notificación vía email, chatbot y panel de administración. La página fue realizada por 4 desarrolladores utilizando metodología SCRUM. Las tecnologías utilizadas fueron: React, Redux, CSS puro, React Bootstrap, Tailwind, NodeJS, Express, MongoDB Atlas, Mongoose, Google, Paypal, Auth0, Passport. Link: https://fullstackstore.vercel.app/</p>
-
+ 
+ <div>
  <img src="https://user-images.githubusercontent.com/107271569/215656540-2a94bccd-5c0c-4c36-90c6-ac2fa4caf13b.jpeg" width="420" height="240"></img>
-
+ <img src="https://user-images.githubusercontent.com/107271569/215656539-3bb95c62-32ac-44bb-a1d0-672a9e65a3a5.jpeg" width="420" height="240"></img>
+ <img src="https://user-images.githubusercontent.com/106116270/216509914-f18bfaae-dca3-4c3b-99f0-fc5a7cc45831.png" width="420" height="240"></img>
+ <img src="https://user-images.githubusercontent.com/107271569/215656532-50f707e4-3b6d-4721-88e7-d2188bf0f66b.jpeg" width="420" height="240"></img>
+ </div>
+ 
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
