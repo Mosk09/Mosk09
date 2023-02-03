@@ -73,7 +73,10 @@ Web: https://porfoliolmosconi.vercel.app/
 
 <br/>  
 
-  
+ <h2>Proyecto The FullStack Store</h2>
+ <p>Diseñar y desarrollar un e-commerce de electrónica que incluye: búsquedas, filtrados, ordenamientos, creación, auth de terceros, pasarela de pagos, notificación vía email, chatbot y panel de administración. La página fue realizada por 4 desarrolladores utilizando metodología SCRUM. Las tecnologías utilizadas fueron: React, Redux, CSS puro, React Bootstrap, Tailwind, NodeJS, Express, MongoDB Atlas, Mongoose, Google, Paypal, Auth0, Passport. Link: https://fullstackstore.vercel.app/</p>
+ <video src=""></video>
+ <video src="https://www.youtube.com/watch?v=b65qSUtvPEw" width="420"  height="240"></video>
 
 <br/>  
 
